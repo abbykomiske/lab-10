@@ -1,0 +1,10 @@
+--- 
+title: "Lab 10 self-assessment"
+author: Abby Komiske 
+doc: pdf
+--- 
+
+## Assessment 
+
+Lab 10 was all about ‘infer’. The goal of inferential data analysis is to assess hypotheses, which is good for making inferences about a population from a sample of data. This process is non-iterative. Here, we talked about null and alternative hypothesis testing, where our evidence for our inference lies in the likelihood of an observed statistic if the null hypothesis is true to be below some pre-specified threshold of significance. There are theory-based NHST and simulation-based NHST. In the steps of inference, one must consider identifying a hypothesis, the relationships between variables, and a test statistic with a significance level. Next, one must inspect the data by summarizing the relationships between variables, make sure that there are no assumptions, and choose a re-sampling method. From there, one must generate a null distribution, calculate the statistical test, compute the p-value of that test, make a distribution of the statistical test, and calculate the confidence interval. Lastly, one evaluates the evidence for supporting the null or alternative hypothesis. Thus, in class for the lab, we went over the relevant coding for this. I had learned about things like t-tests and p-values before, so this was not very challenging. Rather, the instructor’s explanation made more sense than some other lectures that I have had in basic statistics classes. 
+
