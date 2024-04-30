@@ -1,7 +1,7 @@
 --- 
 title: "Lab 10 self-assessment"
 author: Abby Komiske 
-doc: pdf
+format: pdf
 --- 
 
 ## Assessment 
